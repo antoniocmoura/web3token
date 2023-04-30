@@ -1,1 +1,1 @@
-"# web3token" 
+"# Basic token for the Etheream network" 
