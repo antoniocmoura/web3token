@@ -1,4 +1,4 @@
 ### Basic token for the Ethereum network
 
-# ![token](D:\cursos\blockchain\token\token.png)
+# ![token](https://github.com/antoniocmoura/web3token/blob/main/token.png)
 
